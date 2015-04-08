@@ -1,0 +1,18 @@
+html {
+  box-sizing: border-box; }
+
+*, *::after, *::before {
+  box-sizing: inherit; }
+
+.ssktn {
+  color: #990033; }
+
+p {
+  font-family: applegothic;
+  font-size: 2em; }
+
+.ssktn {
+  font-family: blanch;
+  font-size: 2.3em; }
+
+/*# sourceMappingURL=app.css.map */
